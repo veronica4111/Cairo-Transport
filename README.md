@@ -337,12 +337,4 @@ See `docs/technical_report.md` for the longer technical report, including archit
 - `F9` and `F10` are represented for emergency and infrastructure analysis even though the original road list leaves them isolated from the main network.
 <<<<<<< HEAD
 - The road maintenance requirement combines fractional-knapsack wording with dynamic programming, so this implementation uses integer-budget DP to keep the course focus on DP.
-#   C a i r o - T r a n s p o r t 
- 
- 
-=======
-- The road maintenance requirement combines fractional-knapsack wording with dynamic programming, so this implementation uses integer-budget DP to keep the course focus on DP
-#   C a i r o - T r a n s p o r t 
- 
- 
->>>>>>> a97222eb6726c12a4694eb187591407435273787
+#
