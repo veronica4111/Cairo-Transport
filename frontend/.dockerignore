@@ -1,0 +1,9 @@
+node_modules
+dist
+.npm-cache
+*.log
+*.err
+frontend.log
+frontend.err
+.git
+.gitignore

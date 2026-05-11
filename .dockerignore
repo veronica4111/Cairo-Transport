@@ -1,0 +1,17 @@
+.venv
+venv
+__pycache__
+.pytest_cache
+.uv-cache
+.vscode
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.err
+backend.log
+backend.err
+output
+frontend
+Dockerfile*
+docker-compose.yml
