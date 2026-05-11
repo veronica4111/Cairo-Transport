@@ -1,5 +1,12 @@
 # Cairo Smart City Transportation Network Optimization
 
+## Live Demo
+
+*  [https://cairo-transport.vercel.app/](https://cairo-transport.vercel.app/)
+
+
+---
+
 An end-to-end transportation optimization project for Greater Cairo. The system models districts and public facilities as graph nodes, roads as weighted edges, and traffic demand as time-dependent congestion data. It exposes the same algorithmic core through a command-line demo, a FastAPI backend, and a React dashboard with interactive maps and visual traces.
 
 ## Highlights
@@ -335,6 +342,5 @@ See `docs/technical_report.md` for the longer technical report, including archit
 - Routing uses existing roads by default; candidate roads are used for infrastructure analysis.
 - Facility nodes without resident population use fixed plot sizes for visualization.
 - `F9` and `F10` are represented for emergency and infrastructure analysis even though the original road list leaves them isolated from the main network.
-<<<<<<< HEAD
 - The road maintenance requirement combines fractional-knapsack wording with dynamic programming, so this implementation uses integer-budget DP to keep the course focus on DP.
 #
